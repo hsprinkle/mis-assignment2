@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Assignment 2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tileTitle">Floor Tiling App</string>
+    <string name="lengthInputHint">Length of Room (in ft.)</string>
+    <string name="widthInputHint">Width of Room (in ft.)</string>
+    <string name="tileTileSize">Tile Size</string>
+    <string name="calculateButton">Calculate Tiles</string>
+    <string name="label12x12">12 x 12 in.</string>
+    <string name="label18x18">18 x 18 in.</string>
+    <string name="title_activity_tech_gadgets_app">Tech Gadgets App</string>
+    <string name="gadgetsTitle">Heather\'s Top 5 Tech Gifts</string>
+    <string name="cameraName">Nikon 1 J1</string>
+    <string name="cellphoneName">Moto X (2014)</string>
+    <string name="laptopName">GT72 Dominator Pro (GTX 980M)</string>
+    <string name="tvName">Panasonic TX-42AS500B</string>
+    <string name="trackerName">Jawbone UP3</string>
+    <string name="learnMore">Learn More</string>
+
+</resources>

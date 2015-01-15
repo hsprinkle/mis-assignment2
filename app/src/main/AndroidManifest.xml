@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mis572.hsprinkle.assignment2" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".FloorTilingApp"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".TechGadgetsApp"
+            android:label="@string/title_activity_tech_gadgets_app" >
+        </activity>
+        <activity
+            android:name=".Camera"
+            android:label="Camera">
+        </activity>
+        <activity
+            android:name=".CellPhone"
+            android:label="Cell Phone">
+        </activity>
+        <activity
+            android:name=".Laptop"
+            android:label="Laptop">
+        </activity>
+        <activity
+            android:name=".Television"
+            android:label="Television">
+        </activity>
+        <activity
+            android:name=".Tracker"
+            android:label="Tracker">
+        </activity>
+    </application>
+
+</manifest>
